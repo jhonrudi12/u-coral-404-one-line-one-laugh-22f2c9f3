@@ -1,0 +1,9 @@
+kit/
+kit.tar.gz
+competition.json
+requirements.json
+prompt.txt
+transcripts.tar.gz
+transcripts-v2.tar.gz
+SUBMIT_READY.md
+__pycache__/
